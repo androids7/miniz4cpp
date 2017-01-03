@@ -1,0 +1,9 @@
+﻿Build started 2017/1/3 12:07:51.
+     1>Project "D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\build\msbuild\miniz4cpp.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         miniz4cpp.vcxproj -> D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\bin\miniz4cpp\Debug\miniz4cpp.exe
+     1>Done Building Project "D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\build\msbuild\miniz4cpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

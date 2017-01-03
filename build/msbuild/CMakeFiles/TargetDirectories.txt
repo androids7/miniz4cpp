@@ -1,0 +1,3 @@
+D:/projects/test/miniz4cpp/miniz4cpp/miniz4cpp/miniz4cpp/build/msbuild/CMakeFiles/miniz4cpp.dir
+D:/projects/test/miniz4cpp/miniz4cpp/miniz4cpp/miniz4cpp/build/msbuild/CMakeFiles/ALL_BUILD.dir
+D:/projects/test/miniz4cpp/miniz4cpp/miniz4cpp/miniz4cpp/build/msbuild/CMakeFiles/ZERO_CHECK.dir

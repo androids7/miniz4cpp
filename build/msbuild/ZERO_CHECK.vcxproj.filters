@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\build\msbuild\CMakeFiles\717c358e91031dd6becfb7660c84949d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5AD5FC13-92DE-3356-A3BD-AD0EFE1CB0F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

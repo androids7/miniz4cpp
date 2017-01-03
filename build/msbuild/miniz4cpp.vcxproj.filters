@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\src\zip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\test\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\projects\test\miniz4cpp\miniz4cpp\miniz4cpp\miniz4cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{27E3AE84-A076-346F-B34D-857516DD166D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
